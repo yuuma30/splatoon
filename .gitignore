@@ -1,1 +1,5 @@
 /testenv/
+/__pycache__/
+/config.txt
+/hoge.json
+/jsonParse.py

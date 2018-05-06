@@ -165,7 +165,7 @@ def get_num_battles():
 
 if __name__ == "__main__":
 	results = get_num_battles()
-	for i in reversed(range(n))
-		post_battle(i, True if i == 0 else False)
+	# for i in reversed(range(50)):
+		# post_battle(i, True if i == 0 else False)
 	fw = open('hoge.json', 'w')
 	json.dump(results,fw,indent=4)
